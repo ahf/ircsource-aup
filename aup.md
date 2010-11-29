@@ -70,7 +70,6 @@ meet all other requirements. Network Upgrades will be announced.
     * hide_spoof_ips=yes
     * g:lines Supported minimum 24 hours.
     * topiclen = 160
-    * maxlist = 100
     * maxbans = 200
 
 5. Abusive modules such as (opme, forcejoin etc). Specifically, no server shall

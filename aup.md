@@ -138,11 +138,12 @@ Kills
 1. Birthday kills are a tradition of IRC. Therefore they are allowed.
 
 2. Mass kills of any kind are not allowed unless announced, and seconded by
-another oper.
+another operator.
 
 3. Killing for fun is acceptable as long as its not out of hand. Use your
-common sense. If you have none, please ask your admin to remove your global
-kill ability, or if your an admin please remove it from yourself.
+common sense. If you have none, please ask your administrator to remove your
+global kill ability, or if your an administrator please remove it from
+yourself.
 
 Operspy
 -------

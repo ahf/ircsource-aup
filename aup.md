@@ -153,9 +153,12 @@ capabilities will be handled on a case-by-case basis.
 Operwall
 --------
 
-1. Operwall is a communication tool. The occasional Dialog boxes or non IRC
-related information is acceptable. But flooding it with Ascii art it gets old.
-Use your common sense. If you have none remove yourself as you would for kills.
+The Operwall is a communication tool for administrators and operators and
+should therefore be taken serious.
+
+Occasional dialog boxes and non-IRC related information is acceptable, but
+flooding it with ASCII art gets annoying people pretty quickly, so please, apply
+common sense here.
 
 Warning, Suspension, Removal and Appeal
 ---------------------------------------

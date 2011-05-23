@@ -147,8 +147,8 @@ kill ability, or if your an admin please remove it from yourself.
 Operspy
 -------
 
-1. This capability may only be used to combat drones. Abuse of these
-capabilities will be handled on a case-by-case basis.
+This capability may only be used to combat drones. Abuse of these capabilities
+will be handled on a case-by-case basis.
 
 Operwall
 --------

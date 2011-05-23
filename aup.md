@@ -6,9 +6,9 @@ IRCsource Acceptable Use Policy
 
 Version: 1.0.
 
-The document is currently mantained by [Alexander Færøy](mailto:ahf@0x90.dk).
+The document is currently maintained by [Alexander Færøy](mailto:ahf@0x90.dk).
 
-Originally document by Andrew Matthews.
+Original document by Andrew Matthews.
 
 * ToC
 {:toc}

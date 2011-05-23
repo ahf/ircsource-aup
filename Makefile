@@ -1,8 +1,10 @@
-all: aup.md
-	maruku --html $<
+%.html: %.md
+	maruku --html -o $@ $<
+
+all: aup.html
 
 clean:
-	rm -rf *.aux *.out *.log *.tex *.html *.pdf || true
+	rm -rf *.html || true
 
 .default: all
 
